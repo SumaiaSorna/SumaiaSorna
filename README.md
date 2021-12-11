@@ -6,9 +6,9 @@
 
 
 ### Connect with me:
-- 🖥️  Portfolio: **https://sumaiasorna.github.io/portfolio-html-css/**
-- 📧  Email: **sorna.sumaia@gmail.com**
-- <a href=""><img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" width="20" alt="Linkedin Logo" /></a> LinkedIn: **https://www.linkedin.com/in/sumaia-salahuddin-519521218/**
+- Portfolio: **https://sumaiasorna.github.io/portfolio-html-css/**
+- Email: **sorna.sumaia@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/sumaia-salahuddin-519521218/**
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
