@@ -5,7 +5,7 @@
 
 
 ### Connect with me:
-- Portfolio: **https://sumaiasorna.github.io/portfolio-html-css/**
+- Portfolio: **https://sumaiasorna.github.io/react-portfolio/**
 - Email: **sorna.sumaia@gmail.com**
 - LinkedIn: **https://www.linkedin.com/in/sumaia-salahuddin-519521218/**
 
