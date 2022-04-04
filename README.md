@@ -1,7 +1,6 @@
 ## Hi there, I'm Sumaia 👋
 ### Full-Stack Web Developer
 
-- 🌱 I'm currently improving my skills on both front-end and back-end web development at the University of Birmingham coding bootcamp
 - 👯 I'm  looking forward to sharpen my skills further in real world projects
 
 
